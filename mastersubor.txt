@@ -1,1 +1,5 @@
 toto je master subor
+
+novy riadok
+
+zmena na novaMasterVetva
