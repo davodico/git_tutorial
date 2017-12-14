@@ -1,4 +1,4 @@
-Toto je novy riaddok v nova vetva
+ddToto je novy riaddok v nova vetva
 nieco co chcem napisat
 
 sa
